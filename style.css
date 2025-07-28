@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(70, 48, 90);
+}
+h1{
+    font-size: 40px;
+    color:rgba(235, 25, 235, 0.623);
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color:rgb(39, 30, 30);
+    text-align:center;
+}
+img{
+    width: 30%;
+    margin: left 350% ;
+}
